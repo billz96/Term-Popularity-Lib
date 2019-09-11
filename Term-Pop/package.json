@@ -1,0 +1,21 @@
+{
+    "name": "term-pop",
+    "version": "1.0.0",
+    "description": "finds the term's popularity on twitter",
+    "main": "test.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Βασίλειος Ζωγράφος Π14050",
+    "license": "MIT",
+    "dependencies": {
+        "moment": "^2.22.2",
+        "querystring": "^0.2.0",
+        "request": "^2.87.0",
+        "scrape-twitter": "^0.11.0",
+        "stream-to-promise": "^2.2.0",
+        "twit": "^2.2.11",
+        "twitter": "^1.7.1",
+        "twitter-text": "^2.0.4"
+    }
+}
