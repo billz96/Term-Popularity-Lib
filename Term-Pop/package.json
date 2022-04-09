@@ -9,7 +9,7 @@
     "author": "Βασίλειος Ζωγράφος Π14050",
     "license": "MIT",
     "dependencies": {
-        "moment": "^2.22.2",
+        "moment": "^2.29.2",
         "querystring": "^0.2.0",
         "request": "^2.87.0",
         "scrape-twitter": "^0.11.0",
